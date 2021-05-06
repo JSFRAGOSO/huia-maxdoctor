@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+<h1 align="center">
+  <img src="https://ik.imagekit.io/5sbzuouhco/logo_l487r2-HNXB.png"/>
+</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# 👓 Indice
+- [Sobre](#-sobre)
+- [Tecnologias utilizadas](#-tecnologias-utilizadas)
+- [Como baixar e executar o projeto](#-como-baixar-o-projeto)
 
-## Available Scripts
+# 🧾 Sobre
 
-In the project directory, you can run:
+O projeto **Max Doctor** é um projeto desenvolvido a partir de um desafio técnico proposto pela **Huia**. 
+A aplicação consiste em duas páginas, sendo a primeira de apresentação e a segunda um formulário com os campos CRM e UF onde, ao clicar no botão para enviar o formulário algumas validações são realizadas como por exemplo:
+- Os campos de CRM e UF são de preenchimento obrigatórios.
+- O CRM precisa ter ao menos 5 caracteres.
 
-### `yarn start`
+### Tela da aplicação versão web:
+<h1 align="center">
+  <img src="https://ik.imagekit.io/5sbzuouhco/image_Qt2xTqJBm-.png"/>
+</h1>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Tela da aplicação versão mobile:
+<h1 align="center">
+  <img src="https://ik.imagekit.io/5sbzuouhco/image_ggYVK7tAh.png"/>
+  <img src="https://ik.imagekit.io/5sbzuouhco/image_1__LWkBvG3G4W.png"/>
+</h1>
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `yarn test`
+# 👨‍💻 Tecnologias utilizadas
+- [ReactJS](https://pt-br.reactjs.org/)
+- [Axios](https://www.npmjs.com/package/axios)
+- [React Router DOM](https://www.npmjs.com/package/react-router-dom)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# 📌 Como baixar o projeto
 
-### `yarn build`
+### Pré-requisitos:
+- Para executar o projeto, é necessário possuir o Node instalado no computador, caso você não tenha você pode baixá-lo em [Nodejs](https://nodejs.org/en/download/) 
+- Para clonar o projeto, é necessário possuir o Git, disponível em [Git](https://git-scm.com/downloads) 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Abra o terminal em seu computador e clone o projeto com:
+```bash
+$ git clone https://github.com/JSFRAGOSO/huia-maxdoctor.git
+```
+### Acesse a pasta do projeto com:
+```
+$ cd huia-maxdoctor
+```
+### Baixe as dependências do projeto com:
+```
+$ yarn install
+```
+### Inicialize o projeto em ambiente de desenvolvimento com :
+```
+$ yarn start
+```
+Abra [http://localhost:3000](http://localhost:3000) to visualizar a aplicação no browser.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+<h1 align="center">
+  <img src="https://ik.imagekit.io/5sbzuouhco/image_2__QG3ssaAP9g.png"/>
+</h1>
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
+Feito com 💜 by Jonas Fragoso :wave:
