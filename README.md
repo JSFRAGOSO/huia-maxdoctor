@@ -20,10 +20,10 @@ A aplicação consiste em duas páginas, sendo a primeira de apresentação e a 
 </h1>
 
 ### Tela da aplicação versão mobile:
-<h1 align="center">
-  <img src="https://ik.imagekit.io/5sbzuouhco/image_ggYVK7tAh.png"/>
-  <img src="https://ik.imagekit.io/5sbzuouhco/image_1__LWkBvG3G4W.png"/>
-</h1>
+<h3 align="center">
+  <img style="width 200px" src="https://ik.imagekit.io/5sbzuouhco/image_ggYVK7tAh.png"/>
+  <img style="width 200px"src="https://ik.imagekit.io/5sbzuouhco/image_1__LWkBvG3G4W.png"/>
+</h3>
 
 
 # 👨‍💻 Tecnologias utilizadas
@@ -36,6 +36,7 @@ A aplicação consiste em duas páginas, sendo a primeira de apresentação e a 
 ### Pré-requisitos:
 - Para executar o projeto, é necessário possuir o Node instalado no computador, caso você não tenha você pode baixá-lo em [Nodejs](https://nodejs.org/en/download/) 
 - Para clonar o projeto, é necessário possuir o Git, disponível em [Git](https://git-scm.com/downloads) 
+- Também sugere-se o uso do gerenciador de dependências [Yarn](https://yarnpkg.com/) ao invés do npm, mas isso é opcional
 
 ### Abra o terminal em seu computador e clone o projeto com:
 ```bash
