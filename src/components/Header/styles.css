@@ -1,0 +1,11 @@
+.Header img {
+  width: 150px;
+  height: 150px;
+}
+
+.Header h3 {
+  margin-top: 15px;
+  margin-bottom: 50px;
+  color: #9C83BD;
+  text-align: center;
+}
