@@ -7,7 +7,7 @@
 }
 
 body {
-  background: #F0F0F9 url('./assets/github-background.svg') no-repeat left;
+  background: #F0F0F9 url('./assets/github-background.svg') no-repeat;
   font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
     'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
     sans-serif;
